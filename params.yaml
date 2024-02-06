@@ -1,1 +1,8 @@
-key: val
+GradientBoostingClassifier:
+    n_estimators: 255  # ntrees
+    max_depth: 8     # max_depth
+    min_samples_split: 10   # min_rows
+    learning_rate: 0.1   # learn_rate
+    subsample: 0.8     # sample_rate
+    max_features: 0.8   # col_sample_rate
+    random_state: 7
