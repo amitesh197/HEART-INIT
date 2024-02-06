@@ -26,12 +26,13 @@ Target
 
 
 ### A successful CI/CD pipeline 
-[CI/CD](https://github.com/Meet3456/HEART-INIT/assets/105905490/1c5e0c7e-14a0-49fc-90ed-2f45d77ba612)
+[https://github.com/Meet3456/HEART-INIT/assets/105905490/1c5e0c7e-14a0-49fc-90ed-2f45d77ba612]
 
 Slope of the Peak Exercise ST Segment
 Number of Major Vessels Colored by Fluoroscopy
 Thalassemia
 Target
 
+![AWS](https://github.com/Meet3456/HEART-INIT/assets/105905490/20e4a612-ec45-4026-9714-c3bc53812b1a)
 
 
