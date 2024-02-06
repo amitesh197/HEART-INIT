@@ -18,8 +18,20 @@ Fasting Blood Sugar
 Resting Electrocardiographic Results
 Maximum Heart Rate Achieved
 Exercise-induced angina
-Depression induced by exercise relative to rest
+Depression induced by exercise relative to rest.
 Slope of the Peak Exercise ST Segment
 Number of Major Vessels Colored by Fluoroscopy
 Thalassemia
 Target
+
+
+### A successful CI/CD pipeline 
+[CI/CD](https://github.com/Meet3456/HEART-INIT/assets/105905490/1c5e0c7e-14a0-49fc-90ed-2f45d77ba612)
+
+Slope of the Peak Exercise ST Segment
+Number of Major Vessels Colored by Fluoroscopy
+Thalassemia
+Target
+
+
+
