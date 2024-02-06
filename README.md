@@ -1,5 +1,4 @@
 # HEART-INIT
-<<<<<<< HEAD
 =======
 
 Welcome! This project is a successful MLOps project implemented by Meet, Tirth and Amitesh.
