@@ -45,4 +45,7 @@ Target
 
 
 
->>>>>>> 712e10e5e8f58a4f49b8ddea449bb78a845caebb
+### A flask backend routing with an simple ui to accept the new data from users and send it to the particular endpoints
+![image](https://github.com/amitesh197/HEART-INIT/assets/123076729/bcbed749-cfbf-48ba-871b-ed323e24e541)
+
+
